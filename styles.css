@@ -1,7 +1,5 @@
-body {
-font-family: Helvetica;
-}
-
-p {
-font-family: Arial;
+.title {
+font-family: Roboto;
+font-weight: bold;
+font-weight: italic;
 }
