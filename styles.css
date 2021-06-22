@@ -1,8 +1,32 @@
-body {
-font-family: Helvetica;
-}
-
 .title {
 font-family: Roboto;
 font-weight: bold;
+}
+
+.wrapper {
+font-family: PT Serif;
+font-weight: 700;
+style: normal;
+font-size: 24px;
+}
+
+.main_title {
+font-family: PT Serif;
+font-weight: 700;
+font-style: normal;
+font-size: 50px;
+}
+
+.main_subtitle {
+font-family: Roboto;
+font-weight: 500;
+font-style: normal;
+font-size: 18px;
+}
+
+.main_button {
+font-family: Roboto;
+font-weight: 500;
+font-style: normal;
+font-size: 14px;
 }
