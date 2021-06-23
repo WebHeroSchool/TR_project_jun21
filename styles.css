@@ -6,13 +6,12 @@ margin: auto;
 width: 80%;
 border: dashed 2px green;
 }
-.logo, .menu {
+.logo, .menu, .menu__item_active {
 display: inline:block;
 border: dashed 1px red;
 }
 
 .logo {
-margin-right: 63%;
 padding: 40px 0 40px 0;
 }
 
