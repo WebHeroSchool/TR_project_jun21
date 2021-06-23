@@ -1,32 +1,29 @@
+body {
+border: dashed 3px green;
+}
+.wrapper {
+margin: auto;
+width: 80%;
+border: dashed 2px green;
+}
+.logo, .menu, .main-content {
+display: inline-block;
+border: dashed 1px red;
+}
+
+.logo {
+margin-right: 59%;
+}
+
+.header {
+border: dashed 2px blue;
+}
+
+.main-content {
+border: dashed 2px blue;
+}
+
 .title {
 font-family: Roboto;
 font-weight: bold;
-}
-
-.wrapper {
-font-family: PT Serif;
-font-weight: 700;
-style: normal;
-font-size: 24px;
-}
-
-.main_title {
-font-family: PT Serif;
-font-weight: 700;
-font-style: normal;
-font-size: 50px;
-}
-
-.main_subtitle {
-font-family: Roboto;
-font-weight: 500;
-font-style: normal;
-font-size: 18px;
-}
-
-.main_button {
-font-family: Roboto;
-font-weight: 500;
-font-style: normal;
-font-size: 14px;
 }
