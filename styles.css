@@ -6,8 +6,8 @@ margin: auto;
 width: 80%;
 border: dashed 2px green;
 }
-.logo, .menu, .menu__item_active {
-display: inline:block;
+.logo, .menu {
+display: inline-block;
 border: dashed 1px red;
 }
 
