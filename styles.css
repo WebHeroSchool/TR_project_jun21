@@ -1,18 +1,17 @@
 body {
-border: dashed 3px green;
 }
 .wrapper {
 margin: auto;
 width: 80%;
-border: dashed 2px green;
 }
 .logo, .menu {
 display: inline-block;
-border: dashed 1px red;
 }
 
 .logo {
-padding: 40px 0 40px 0;
+background: url('img/logo.svg');
+width:190px;
+height:35px;
 }
 
 .menu {
@@ -22,22 +21,16 @@ align-items: center;
 
 .menu__item {
 padding: 0 13px;
-border: dashed 1px red;
 }
 
 .menu__item:last-child {
 padding-right:0;
-border: dashed 1px red;
 }
 
 .header {
+padding: 40px 0;
 display: flex;
 justify-content: space-between;
-border: dashed 2px blue;
-}
-
-.main-content {
-border: dashed 2px blue;
 }
 
 .title {
