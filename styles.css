@@ -37,3 +37,24 @@ justify-content: space-between;
 font-family: Roboto;
 font-weight: bold;
 }
+
+.main-content_title {
+font-family: PT Serif;
+font-weight: 700;
+style: normal;
+font-size: 50px;
+}
+
+.main-content_subtitle {
+font-family: Roboto;
+font-weight: 500;
+font-style: normal;
+font-size: 18px;
+}
+
+.main-content__button {
+font-family: Roboto;
+font-weight: 500;
+font-style: normal;
+font-size: 14px;
+}
