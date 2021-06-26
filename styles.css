@@ -7,7 +7,7 @@ display: inline-block;
 }
 
 .logo {
-background: (img/logo.svg);
+background: (..img/logo.svg);
 width:190px;
 height:35px;
 }
