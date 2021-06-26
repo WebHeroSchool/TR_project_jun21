@@ -69,26 +69,26 @@ justify-content: space-between;
 }
 
 .title {
-font-family: url(fonts/robotoregular);
+font-family: "robotoregular";
 font-weight: bold;
 }
 
 .main-content__title {
-font-family: url(fonts/pt_serifregular);
+font-family: "pt_serifregular";
 font-weight: 700;
 style: normal;
 font-size: 50px;
 }
 
 .main-content__subtitle {
-font-family: robotoregular;
+font-family: "robotoregular";
 font-weight: 500;
 font-style: normal;
 font-size: 18px;
 }
 
 .main-content__button {
-font-family: robotoregular;
+font-family: "robotoregular";
 font-weight: 500;
 font-style: normal;
 font-size: 14px;
