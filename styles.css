@@ -69,12 +69,12 @@ justify-content: space-between;
 }
 
 .title {
-font-family: Roboto;
+font-family: url(fonts/robotoregular);
 font-weight: bold;
 }
 
 .main-content__title {
-font-family: pt_serifregular;
+font-family: url(fonts/pt_serifregular);
 font-weight: 700;
 style: normal;
 font-size: 50px;
