@@ -20,7 +20,7 @@ align-items: center;
 .menu__item {
 position: relative;
 margin-right: 26px;
-font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+font: 500 18px/21px robotomedium, arial, helvetica, sans-serif;
 color: #000;
 text-decoration: none;
 transition: opacity .5s;
@@ -81,14 +81,14 @@ font-size: 50px;
 }
 
 .main-content__subtitle {
-font-family: Roboto;
+font-family: robotoregular;
 font-weight: 500;
 font-style: normal;
 font-size: 18px;
 }
 
 .main-content__button {
-font-family: Roboto;
+font-family: robotoregular;
 font-weight: 500;
 font-style: normal;
 font-size: 14px;
