@@ -43,7 +43,7 @@ height: 3px;
 background: #0056EC;
 }
 
-.menu__item:hover:after {
+.menu__item:hover::after {
 position: absolute;
 display:block;
 content:'';
