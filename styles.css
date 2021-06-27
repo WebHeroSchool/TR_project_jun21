@@ -9,7 +9,7 @@ display: inline-block;
 .logo {
 width:190px;
 height:35px;
-background: url(img/logo.svg);
+background: url('img/logo.svg');
 }
 
 .menu {
