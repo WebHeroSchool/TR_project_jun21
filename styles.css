@@ -21,7 +21,7 @@ align-items: center;
 
 .menu__item {
 position: relative;
-margin-right: 8px;
+margin-right: 16px;
 font: 500 18px/21px robotomedium, arial, helveticaneuecyrroman, sans-serif;
 color: #000;
 text-decoration: none;
@@ -31,7 +31,7 @@ border: dashed 4px red;
 
 .menu__item:last-child {
 margin-right:0;
-margin-top: 50px;
+margin-top: 0px;
 }
 
 .menu__item:hover {
