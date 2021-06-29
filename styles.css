@@ -4,14 +4,13 @@ width: 80%;
 }
 .logo, .menu {
 display: inline-block;
-border: dashed 2px green;
 }
 
 .logo {
 width:190px;
 height:35px;
 background: url(img/logo.svg);
-margin-top: 24px;
+margin-top: 26px;
 }
 
 .menu {
@@ -26,7 +25,6 @@ font: 500 18px/21px robotomedium, arial, helveticaneuecyrroman, sans-serif;
 color: #000;
 text-decoration: none;
 transition: opacity .5s;
-border: dashed 4px red;
 }
 
 .menu__item:last-child {
@@ -68,11 +66,10 @@ opacity: 1;
 }
 
 .header {
-padding: 10px 0;
+padding: 4px 0;
 display: flex;
 justify-content: space-between;
 margin-bottom: 75px;
-border: dashed 2px green;
 }
 
 .title {
@@ -101,7 +98,6 @@ line-height: 21px;
 width: 436px;
 height: 52px;
 margin: 2px 0 141px 0;
-border: dashed 2px green;
 }
 
 .main__button {
@@ -112,13 +108,12 @@ line-height: 16px;
 background: #0056EC;
 width: 200px;
 height: 57px;
-margin-top: 150px;
+margin-top: 50px;
 color: #FFF;
 padding: 18px 10px 18px 10px;
 text-decoration: none;
 border-radius: 4px;
 transition: opacity .5s;
-border: dashed 4px red;
 }
 
 .main__button:hover {
@@ -127,14 +122,13 @@ border: dashed 4px red;
 .main {
 	padding: 0 63% 200px 0;
 	background: top right no-repeat url(img/frame.svg);
-	border: dashed 2px green;
-	margin: 215px 0 0 0;
+	margin: 161px 0 0 0;
 }
 .main__title-text_highlight {
 	background: linear-gradient(180deg,rgba(255,255,255,1) 15%, #ECF3FF 15%);;
 }
 
 .image {
-	border: dashed 2px green;
+
 	margin-top: 5px;
 }
