@@ -129,7 +129,7 @@ margin-left: 3px;
 .main__title-text_highlight {
 	background: linear-gradient(180deg,rgba(255,255,255,1) 15%, #ECF3FF 15%);
     margin: 0px 0 41px 0;
-    line-height: 84px;
+    line-height: 88px;
 }
 
 .image {
