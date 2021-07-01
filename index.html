@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <meta charset="utf-8">
+     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
      <title>Мой сайт из модуля 3</title>
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
       <link rel="stylesheet" href=fonts.css>
@@ -11,6 +11,19 @@
     <div class="wrapper">
      <header class="header">
        <div class="logo"></div>
+       <div class="hamburger-menu">
+          <input id="menu__toggle" type="checkbox" />
+          <label class="menu__btn" for="menu__toggle">
+            <span></span>
+          </label>
+  <ul class="menu__box">
+    <li><a class="menu__item1" href="#">start</a></li>
+    <li><a class="menu__item1" href="#">services</a></li>
+    <li><a class="menu__item1" href="#">about</a></li>
+    <li><a class="menu__item1" href="#">blog</a></li>
+    <li><a class="menu__item1" href="#">contact</a></li>
+  </ul>
+</div>
        <nav class="menu">
          <a class="menu__item" href="#">start</a>
          <a class="menu__item menu__item_active" href="#">services</a>
@@ -25,7 +38,7 @@
          Expertise</span>?
         </h1>
          <p class="main__subtitle">I help tech Startups Design better digital products without
-           hiring a full-time designer</p>
+           hiring a&nbsp;full-time designer</p>
            <a class="main__button" href="#">Schedule free consultation</a><br>
          </section>
         <div class="image"><img src="img/group16.svg" alt=""></div>
