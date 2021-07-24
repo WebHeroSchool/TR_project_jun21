@@ -138,6 +138,13 @@ margin-bottom: 10px;
     align-items: center;
     padding-left: 750px;
 }
+
+@media (width: 1920px) {
+  .hamburger-menu {
+    display: none;
+  }
+}
+
 @media (max-width: 1367px) {
   .header {
     margin-bottom: 28px;
