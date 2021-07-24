@@ -138,10 +138,7 @@ margin-bottom: 10px;
     align-items: center;
     padding-left: 750px;
 }
-@media (min-width: 1367px) {
-.menu {
-    display: none;
-  }
+@media (max-width: 1367px) {
   .header {
     margin-bottom: 28px;
   }
@@ -167,7 +164,7 @@ margin-bottom: 10px;
   font: 500 14px/16px robotoregular, arial, helveticaneuecyrroman, sans-serif;
 }
 }
-@media (min-width: 1024px) {
+@media (max-width: 1024px) {
 .menu {
     display: none;
   }
@@ -198,7 +195,7 @@ margin-bottom: 10px;
 }
 
 
-@media (min-width: 1170px) {
+@media (max-width: 1170px) {
   //надо измерять по макету
 .menu {
     display: none;
