@@ -71,7 +71,6 @@ opacity: 1;
 padding: 4px 0;
 display: flex;
 justify-content: space-between;
-margin-bottom: 160px;
 }
 
 .title {
@@ -87,6 +86,7 @@ line-height: 84px;
 width: 510px;
 top: 710px;
 align-items: center;
+margin: 0 0 3px 0;
 }
 
 .main__subtitle {
@@ -118,8 +118,10 @@ margin-bottom: 17px;
 .main {
 	padding: 0 63% 120px 0;
 	background: top right no-repeat url(img/frame.svg);
-  background-size: 51%;
+  background-size: 53%;
 	margin: 50px 0 0 0;
+  height: 100vh;
+  background-position-x: 102% ;
 }
 .main__title-text_highlight {
 	background: linear-gradient(180deg,rgba(255,255,255,1) 15%, #ECF3FF 15%);
