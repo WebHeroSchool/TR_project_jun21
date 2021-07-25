@@ -87,8 +87,6 @@ line-height: 84px;
 width: 510px;
 top: 710px;
 align-items: center;
-margin: 0px 0 37px 0px;
-padding: 80px 0 0 0;
 }
 
 .main__subtitle {
@@ -97,7 +95,6 @@ font-weight: 400;
 font-size: 22px;
 line-height: 22px;
 width: 436px;
-margin: 0px 0 45px 0;
 }
 
 .main__button {
@@ -112,8 +109,7 @@ padding: 10px 23px 20px 19px;
 text-decoration: none;
 border-radius: 4px;
 transition: opacity .5s;
-margin-left: 3px;
-margin-bottom: 10px;
+margin-bottom: 17px;
 }
 
 .main__button:hover {
